@@ -1,9 +1,14 @@
-# ❄️ 琪露诺的完美算数教室 v1.0
+把AI调成啥了。
+[github项目地址](https://github.com/shadiaoshe/Cirno-Perfect-Math-Class)
+[github最新版本地址](https://github.com/shadiaoshe/Cirno-Perfect-Math-Class/releases/tag/v1.0)
+[github下载链接](https://github.com/shadiaoshe/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
+[国内快速下载链接（可能会死）](https://gh.xxooo.cf/https://github.com/shadiaoshe/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
+#  琪露诺的完美算数教室 v1.0
 
 > 基于 PyQt6 与 GPT 打造的**全学科高中大屏教研/课堂互动神器**！
 > 让最强天才⑨亲自为你解答难题！
 
-![Cirno](cirno.jpg)
+![](https://cdn.luogu.com.cn/upload/image_hosting/oz021dsh.png)
 
 ## ✨ 核心亮点
 
@@ -35,6 +40,18 @@ python ppt_ai_assistant.py
 ## 📦 下载成品软件 (.exe)
 
 如果你不是程序员，或者想直接发给其他老师使用，请前往仓库右侧的 **[Releases]** 页面，下载最新的免安装打包版本（解压即用）！
+这是《琪露诺的完美算数教室》第一个正式版本！🎉
 
+**使用方法：**
+
+这是《琪露诺的完美算数教室》第一个正式版本！🎉
+
+**使用方法：**
+
+1. 在[这里](https://github.com/chatanywhere/GPT_API_free)申请一个免费api
+2. 下载下方的 `Cirno-Teacher-v1.0-Windows.zip`
+3. 解压整个文件夹到你的电脑上。
+4. 双击运行 `琪露诺的完美算数教室 v1.0.exe` 即可启动魔法，**完全不需要安装 Python**！
+5. 记得把 API Key 填在软件最上方哦。
 ## 🤝 鸣谢与 API 来源
 本项目大模型 API 接口感谢 [ChatAnywhere](https://github.com/chatanywhere/GPT_API_free) 提供的免费支持。
