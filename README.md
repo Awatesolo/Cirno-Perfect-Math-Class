@@ -1,8 +1,8 @@
 把AI调成啥了。
-[github项目地址](https://github.com/shadiaoshe/Cirno-Perfect-Math-Class)
-[github最新版本地址](https://github.com/shadiaoshe/Cirno-Perfect-Math-Class/releases/tag/v1.0)
-[github下载链接](https://github.com/shadiaoshe/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
-[国内快速下载链接（可能会死）](https://gh.xxooo.cf/https://github.com/shadiaoshe/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
+[github项目地址](https://github.com/Awatesolo/Cirno-Perfect-Math-Class)
+[github最新版本地址](https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/tag/v1.0)
+[github下载链接](https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
+[国内快速下载链接（可能会死）](https://gh.xxooo.cf/https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
 #  琪露诺的完美算数教室 v1.0
 
 > 基于 PyQt6 与 GPT 打造的**全学科高中大屏教研/课堂互动神器**！
