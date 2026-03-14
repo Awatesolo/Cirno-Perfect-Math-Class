@@ -1,9 +1,9 @@
 把AI调成啥了。
 [github项目地址](https://github.com/Awatesolo/Cirno-Perfect-Math-Class)
 [github最新版本地址](https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/tag/v1.0)
-[github下载链接](https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
-[国内快速下载链接（可能会死）](https://gh.xxooo.cf/https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/download/v1.0/Cirno-Teacher-v1.0-Windows.zip.zip)
-#  琪露诺的完美算数教室 v1.0
+[github下载链接](https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/download/v1.1/Cirno-Perfect-Math-Class.v1.1.zip)
+[国内快速下载链接（可能会死）](https://gh.xxooo.cf/https://github.com/Awatesolo/Cirno-Perfect-Math-Class/releases/download/v1.1/Cirno-Perfect-Math-Class.v1.1.zip)
+#  琪露诺的完美算数教室 v1.1
 
 > 基于 PyQt6 与 GPT 打造的**全学科高中大屏教研/课堂互动神器**！
 > 让最强天才⑨亲自为你解答难题！
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### 3. 运行程序
 ```bash
-python ppt_ai_assistant.py
+python Cirno-Perfect-Math-Class.py
 ```
 *(运行后，在软件顶部输入你的 ChatAnywhere API Key 即可启动魔法！)*
 
