@@ -21,3 +21,20 @@
 确保你的电脑已安装 Python 3.8+。打开终端运行：
 ```bash
 pip install -r requirements.txt
+```
+
+### 2. 准备背景
+请确保 `cirno.jpg` 与代码在同一目录下，否则天才⑨是不会出现的哦！
+
+### 3. 运行程序
+```bash
+python ppt_ai_assistant.py
+```
+*(运行后，在软件顶部输入你的 ChatAnywhere API Key 即可启动魔法！)*
+
+## 📦 下载成品软件 (.exe)
+
+如果你不是程序员，或者想直接发给其他老师使用，请前往仓库右侧的 **[Releases]** 页面，下载最新的免安装打包版本（解压即用）！
+
+## 🤝 鸣谢与 API 来源
+本项目大模型 API 接口感谢 [ChatAnywhere](https://github.com/chatanywhere/GPT_API_free) 提供的免费支持。
